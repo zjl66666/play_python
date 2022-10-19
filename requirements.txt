@@ -1,2 +1,2 @@
 aip
-streamlit
+streamlit=1.13.0
