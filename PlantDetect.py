@@ -3,6 +3,7 @@ from aip import AipImageClassify
 
 st.title("Hello world")
 st.title("植物识别")
+st.balloons()
 
 APP_ID='27956980'
 API_KEY='fvZQAoGvoMas0Kmvke0oycHV'
